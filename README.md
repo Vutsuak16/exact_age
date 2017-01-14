@@ -1,4 +1,8 @@
 # exact_age
+
 The python code returns your exact age
 
-python exact_age.py
+Uses information from http://www.datetime.io/ 
+
+
+*python exact_age.py*
