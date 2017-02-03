@@ -6,3 +6,6 @@ Uses information from http://www.datetime.io/
 
 
 *python exact_age.py*
+
+
+Note: for windows install lxml wheel given
